@@ -1,0 +1,16 @@
+{
+  "name": "wedt",
+  "version": "0.1.0",
+  "description": "WebEmbedDevTools - lightweight devtools you can embed in any website",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "devtools",
+    "debug",
+    "console",
+    "web",
+    "embed"
+  ],
+  "author": "wataamee777",
+  "license": "MIT"
+}
